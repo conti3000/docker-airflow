@@ -1,0 +1,5 @@
+tqdm
+imageai
+opencv-python
+keras
+tensorflow
