@@ -28,8 +28,6 @@ services:
     volumes:
       - .:/usr/local/airflow
       - .:/root/airflow
-      #- /YOUR_ABS_PATH/VisionTrack/dags:/usr/local/airflow/dags
-      #- /YOUR_ABS_PATH/VisionTrack:/usr/local/airflow/scripts
     ports:
       - "8080:8080"
     
